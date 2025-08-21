@@ -19,7 +19,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/adireddy-pavan/password-strength-analyzer.git
+  [https://github.com/venkatveerendra/Password-Strength-Analyzer.git]
    ```
 
 2. **Navigate to Project Directory**
